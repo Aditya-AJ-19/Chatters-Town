@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590558663887",
+    "project_id": "chatters-town",
+    "storage_bucket": "chatters-town.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590558663887:android:b845648da17cdcbaaa93ba",
+        "android_client_info": {
+          "package_name": "com.example.chatters_town"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590558663887-1admbemgnje294no1dfs1364s4dkgpb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatters_town",
+            "certificate_hash": "860e71d3f64a0fe658abd8d7a27842ad494e64e9"
+          }
+        },
+        {
+          "client_id": "590558663887-2pu14bpbbhs9evqko43577mqqvqm14f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZD5ePnihbVIq_3Ojip4pZK50DGME_c_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590558663887-2pu14bpbbhs9evqko43577mqqvqm14f9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
